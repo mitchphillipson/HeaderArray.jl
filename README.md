@@ -1,4 +1,4 @@
-# Header Array File
+# Header Array
 
 A Header ARray file (HAR) is a structured byte array for storing GEMPACK data. 
 
@@ -6,14 +6,14 @@ To add this package to your Julia environment, run:
 
 ```julia
 import Pkg
-Pkg.add(url="https://github.com/mitchphillipson/HeaderArrayFile.jl")
+Pkg.add(url="https://github.com/mitchphillipson/HeaderArray.jl")
 ```
 
 Basic usage example:
 
 ```julia
-using HeaderArrayFile
-const HAR = HeaderArrayFile # Create alias for convenience
+using HeaderArray
+const HAR = HeaderArray # Create alias for convenience
 
 using DataFrames
 
