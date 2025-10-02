@@ -1,4 +1,4 @@
-module HeaderArrayFile
+module HeaderArray
 
     using DataFrames
 

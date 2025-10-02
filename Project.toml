@@ -1,4 +1,4 @@
-name = "HeaderArrayFile"
+name = "HeaderArray"
 uuid = "35342530-b88f-4ebc-9d14-598decc59a8e"
 authors = ["Mitch Phillipson <mitch.phillipson@gmail.com>"]
 version = "0.1.0"
