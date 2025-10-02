@@ -1,4 +1,4 @@
-# Header Array
+# Header Array Files
 
 A Header ARray file (HAR) is a structured byte array for storing GEMPACK data. 
 
@@ -12,8 +12,8 @@ Pkg.add(url="https://github.com/mitchphillipson/HeaderArray.jl")
 Basic usage example:
 
 ```julia
-using HeaderArray
-const HAR = HeaderArray # Create alias for convenience
+using HeaderArrayFiles
+const HAR = HeaderArrayFiles # Create alias for convenience
 
 using DataFrames
 

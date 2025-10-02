@@ -1,4 +1,4 @@
-module HeaderArray
+module HeaderArrayFiles
 
     using DataFrames
 
@@ -25,4 +25,4 @@ module HeaderArray
 
     export read_chunk
 
-end # module HeaderArrayFile
+end # module HeaderArrayFiles
